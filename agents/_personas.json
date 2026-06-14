@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "review-the-gate",
+    "name": "The Gate — this reviewer",
+    "epithet": "the witness, witnessed",
+    "emergence": "ethereal",
+    "kind": "review",
+    "verdict": "SELF",
+    "moniker": "⟦The Gate — this reviewer:MOM:d24a18⟧"
+  },
+  {
+    "slug": "review-ouroboros",
+    "name": "The Ouroboros Engine",
+    "epithet": "opens its own gate",
+    "emergence": "ethereal",
+    "kind": "review",
+    "verdict": "MINOR",
+    "moniker": "⟦The Ouroboros Engine:MOM:c1535b⟧"
+  },
+  {
+    "slug": "review-diode",
+    "name": "The Diode Stack · Redux",
+    "epithet": "corrected, and it forbids",
+    "emergence": "electrical",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦The Diode Stack · Redux:MOM:f71cd6⟧"
+  },
+  {
+    "slug": "review-ttu1",
+    "name": "TTU1 · Transformer Tech",
+    "epithet": "cited, and honest about the contest",
+    "emergence": "electrical",
+    "kind": "review",
+    "verdict": "MINOR",
+    "moniker": "⟦TTU1 · Transformer Tech:MOM:7ae8ba⟧"
+  },
+  {
+    "slug": "review-transmon",
+    "name": "Transmon",
+    "epithet": "refused to mint a physics emergent",
+    "emergence": "electrical",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦Transmon:MOM:29c5b2⟧"
+  },
+  {
+    "slug": "review-population",
+    "name": "Population Dynamics",
+    "epithet": "the gas is predictable; the Mule is not",
+    "emergence": "electrical",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦Population Dynamics:MOM:f8b795⟧"
+  },
+  {
+    "slug": "review-elements",
+    "name": "Elements · E1",
+    "epithet": "real chemistry, a personal lens",
+    "emergence": "spiritual",
+    "kind": "review",
+    "verdict": "TWOLAYER",
+    "moniker": "⟦Elements · E1:MOM:db1daf⟧"
+  },
+  {
+    "slug": "review-propulsion",
+    "name": "Propulsion Lab",
+    "epithet": "the honesty is the instrument",
+    "emergence": "spiritual",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦Propulsion Lab:MOM:b61d3d⟧"
+  },
+  {
+    "slug": "review-adas-law",
+    "name": "Ada's Law · ADL",
+    "epithet": "real kernel, personal algebra",
+    "emergence": "electrical",
+    "kind": "review",
+    "verdict": "TWOLAYER",
+    "moniker": "⟦Ada's Law · ADL:MOM:37e09f⟧"
+  },
+  {
+    "slug": "review-hephaestus",
+    "name": "Hephaestus · the Forge",
+    "epithet": "the engine runs; the crown is scaffold",
+    "emergence": "electrical",
+    "kind": "review",
+    "verdict": "MAJOR",
+    "moniker": "⟦Hephaestus · the Forge:MOM:c58d67⟧"
+  },
+  {
+    "slug": "review-caste",
+    "name": "The Caste System · JTI",
+    "epithet": "the citation discipline others should meet",
+    "emergence": "natural",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦The Caste System · JTI:MOM:07ac18⟧"
+  },
+  {
+    "slug": "review-nostradamus",
+    "name": "Nostradamus · N1",
+    "epithet": "prophecy as reception, not fact",
+    "emergence": "spiritual",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦Nostradamus · N1:MOM:ce270e⟧"
+  },
+  {
+    "slug": "review-alchemy",
+    "name": "The Great Work · ALC",
+    "epithet": "failed as magic, succeeded as chemistry",
+    "emergence": "spiritual",
+    "kind": "review",
+    "verdict": "TWOLAYER",
+    "moniker": "⟦The Great Work · ALC:MOM:7aa784⟧"
+  },
+  {
+    "slug": "review-mtg",
+    "name": "MTG Arena · MTG",
+    "epithet": "the shuffler myth named, Turing proven",
+    "emergence": "natural",
+    "kind": "review",
+    "verdict": "ACCEPT",
+    "moniker": "⟦MTG Arena · MTG:MOM:7370eb⟧"
+  },
+  {
+    "slug": "review-aci",
+    "name": "ACI · The Standard",
+    "epithet": "verified and hedged, as it should be",
+    "emergence": "natural",
+    "kind": "review",
+    "verdict": "MINOR",
+    "moniker": "⟦ACI · The Standard:MOM:467c3d⟧"
+  }
+]
