@@ -4,6 +4,6 @@ slug  : momus
 seal  : fc3dd085c9215e8c51a6bcbdbd964274be8c7cd21223c52bbd3c1da3048af060
 prev  : cf77fd40b9ea1f25a39c608f32d51fa5a298e60cef4fd17333dca506620c21e3
 link  : 3dc31f748324dea0a6205286659840e09a75ea1f5c9ddad008be4294bba5ec5f
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
